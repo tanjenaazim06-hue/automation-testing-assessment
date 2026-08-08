@@ -4,7 +4,7 @@ import { LoginPage } from '../Pages/LoginPage.js';
 import { MenuPage } from '../Pages/MenuPage';
 import { ProductsPage } from '../Pages/ProductsPage.js';
 import { CartPage } from '../Pages/CartPage.js';
-import { CheckOutPage } from '../Pages/CheckOutPage.js';
+import { CheckOutPage } from '../Pages/CheckoutPage.js';
 import { CheckoutOverviewPage } from '../Pages/CheckoutOverviewPage.js';
 import { CompletePage } from '../Pages/CompletePage.js';
 
